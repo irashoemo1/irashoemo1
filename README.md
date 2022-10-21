@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, My name is Ira</h1>
-<h3 align="center">I am a Software Engineer based in New York. I am proficient in Frontend and Backend Development with knowledge in JavaScript, HTML, CSS,Node.JS, MongoDB and a background in Java. As a software engineer, I would love to use my skills to help improve projects and show my commitment to bringing you top notch talent.</h3>
+<h1>Hi 👋, My name is Ira</h1>
+<h3>I am a Software Engineer based in New York. I am proficient in Frontend and Backend Development with knowledge in JavaScript, HTML, CSS,Node.JS, MongoDB and a background in Java. As a software engineer, I would love to use my skills to help improve projects and show my commitment to bringing you top notch talent.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
